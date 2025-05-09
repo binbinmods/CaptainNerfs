@@ -1,0 +1,7 @@
+{
+  "name": "Captain_Nerfs",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/binbinmods/CaptainNerfs",
+  "description": "A simple rework to Captains along with Captain's Presence and King's Presence.",
+  "dependencies": ["BepInEx-BepInExPack_AcrossTheObelisk-5.4.23", "meds-Obeliskial_Content-1.5.4"]
+}
